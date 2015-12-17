@@ -1,7 +1,10 @@
 Raspberry pi, arduino and APC220 Robot
 ======================================
-bassam.yasin@gmail.com
-Link to project: https://thunderwiring.wordpress.com/projects/raspberry-pi-arduino-and-apc220-robot/comment-page-1/#comment-64
+
+Bassam Yassin: bassam.yasin@gmail.com
+
+Link to project: 
+https://thunderwiring.wordpress.com/projects/raspberry-pi-arduino-and-apc220-robot/comment-page-1/#comment-64
 --------------------------------------------------------------------------------
 
 Description:
